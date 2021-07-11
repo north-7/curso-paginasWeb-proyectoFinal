@@ -7,7 +7,7 @@ const load = links => {
         console.log(val);
        
         $('#section-wrapper').append(
-           `<div class="col-xl-6 p-4">
+           `<div class="col-xl-6 p-xs-1 p-md-4">
                 <div class="ratio ratio-1x1">
                     <div class="card">
                         <div class="card-header">
