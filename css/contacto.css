@@ -26,6 +26,7 @@ main {
 }
 
 footer {
+
     padding: 2%;
     background-color: lightblue;
 }
@@ -151,4 +152,3 @@ input[type=submit]:hover {background-color: rgb(0, 196, 0);}
   border-color: #125688;
 }
 /*Fin de Footer*/
-
