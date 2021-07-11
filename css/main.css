@@ -16,8 +16,9 @@ main {
 }
 
 footer {
-    padding: 2%;
-    background-color: lightblue;
+  width: 100%;
+  padding: 2%;
+  background-color: #212529;
 }
 
 #titulo {

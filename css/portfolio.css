@@ -21,6 +21,10 @@ main {
     padding:1%;
 }
 
+@media (max-width: 575px) {
+  .container {margin-top: 0%; margin-bottom: 0%;}
+}
+
 .card {
     background-color: #A4C5CF;
 }
@@ -33,11 +37,9 @@ main {
 iframe {height: 100%;}
 
 footer {
-   /* position: fixed;
-    bottom: 0;
-    width: 100%;*/
+    width: 100%;
     padding: 2%;
-    background-color: lightblue;
+    background-color: #212529;
 }
 
 
